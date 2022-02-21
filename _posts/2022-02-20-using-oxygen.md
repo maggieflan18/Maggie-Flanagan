@@ -13,7 +13,7 @@ The paragraph tags were familiar to me, but the page break and note tags were ne
   
 Coding is very detail oriented and specific, so if there is just one letter or symbol incorrect or out of place, the code will be invalid. One aspect of the Oxygen program that is very helpful is the box in the top right corner, as it will be green if the code is valid and red if it is invalid. This was very useful in making sure everything was in place and written exactly the way that it should be. 
 
-The “Author” tab on the bottom of the program was another useful feature of this program. It allowed us to see how the text would look online based on the way that we had coded it. I could see if the paragraphs were broken up the right way and if the note and page break were in the right place. 
+The “Author” tab on the bottom of the program was another useful feature. It allowed us to see how the text would look online based on the way that we had coded it. I could see if the paragraphs were broken up the right way and if the note and page break were in the right place. 
 
 ![XML Code in Oxygen program](https://maggieflan18.github.io/Maggie-Flanagan/images/TEICodeFinal.jpg)
 
