@@ -17,4 +17,4 @@ The “Author” tab on the bottom of the program was another useful feature. It
 
 ![XML Code in Oxygen program](https://maggieflan18.github.io/Maggie-Flanagan/images/TEICodeFinal.jpg)
 
-Overall, I really enjoyed this project. Coding can be very intimidating at first, but I would like to learn more about it and do more practice with progams like Oxygen. I think that it is a useful skill to have and I would like to be more well-versed on it. Working in Oxygen with TEI was a good introduction into the world of coding and this project showed one way that this skill can be applied.
+Overall, I really enjoyed this project. Coding can be very intimidating at first, but I would like to learn more about it and do more practice with progams like Oxygen. I think that it is a useful skill to have, and I would like to be more well-versed on it. Working in Oxygen with TEI was a good introduction into the world of coding, and this project showed one way that this skill can be applied.
