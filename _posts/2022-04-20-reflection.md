@@ -1,4 +1,4 @@
-# Reflection on Writing for the Digital Humananities
+# Reflection on Writing for the Digital Humanities
 When I signed up for this class, I was unfamiliar with digital humanities. I was interested in learning about a different kind of writing than what I would be doing in my other courses this semester as an English major/writing minor. During the first couple weeks of the semester, we discussed what digital humanities is. One of the activities we did was interacting with Jason Heppler’s website, “What is Digitial Humanities.” This website provides a new definition of digital humanities each time you refresh the page. 
 
 ![Definition by Kalani Craig from website](https://maggieflan18.github.io/Maggie-Flanagan/images/DHWebsiteDefinition.jpg)
