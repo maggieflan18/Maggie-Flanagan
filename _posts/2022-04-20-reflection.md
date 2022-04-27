@@ -17,7 +17,7 @@ Our biggest assignment this semester was the grant project. The project consiste
 
 The second step was the annotated bibliography. We had to find at least ten sources related to our topic and write a short paragraph explaining the argument and relevance of each source. During this leg of the project, I improved on my research and analysis skills. I was able to sort out which sections of my project each source would contribute to and why, and this step ensured that we were all well-informed on the topic of our project. 
 
-The third step was the most involved of them all. We had to draft the project description, which had to be a minimum of 1500 words. This was in addition to a 250 word abstract and a one-page resume or 2-page CV. One of the most important things that we did at this stage was reading and discussing Robert Porter’s article “Why Academics Have a Hard Time Writing Good Grant Proposals.” This article clearly laid out the differences between scholarly writing and grant proposals, which was key in our first draft. 
+The third step was the most involved of them all. We drafted the project description, which had to be a minimum of 1500 words. This was in addition to a 250 word abstract and a one-page resume or 2-page CV. One of the most important things that we did at this stage was reading and discussing Robert Porter’s article “Why Academics Have a Hard Time Writing Good Grant Proposals.” This article clearly laid out the differences between scholarly writing and grant proposals, which was key in our first draft. 
 
 ![Twitter thread about article by Robert Porter](https://maggieflan18.github.io/Maggie-Flanagan/images/PorterArticleTweet.jpg)
 
